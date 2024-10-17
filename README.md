@@ -1,13 +1,13 @@
-# Atividade Avaliativa II - Prática
+# Atividade Avaliativa I - Prática
 
 - Curso - Desenvolvimento de Sistemas
-- Unidade Curricular - Programação de Aplicativos
+- Unidade Curricular - Banco de Dados
 - Docente - Gustavo Roberto de Souza
 
 ## Orientações Gerais
 - A avaliação deverá ser realizada individualmente.
 - Não é permitido o uso do celular durante a realização da atividade.
-- Conceitos de POO (Programação Orientado ao Objeto)
+- Conceitos de MER, DER, Entidades e Atributos.
 - A entrega deverá ser feita no AVA. Deve ser enviado apenas o link do repositório do github.
 
 ## Passo-a-Passo (Clonar e Entrega)
